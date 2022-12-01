@@ -17,8 +17,8 @@ This is a solution to the [Qr-code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/mobile-first-approach-nBNxUPM8E0)
-- Live Site URL:(https://suheip2002.github.io/order-summary/)
+- Solution URL: (https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qrcode-component-xgH-dmiwQB)
+- Live Site URL:(https://suheip2002.github.io/qr-code-component/)
 
 ## My process
 
